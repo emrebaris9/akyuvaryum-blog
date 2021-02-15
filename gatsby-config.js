@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Akyuvaryum Blog`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Fatih Barış`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://www.instagram.com/akyuvaryum/`,
     social: {
       twitter: `kylemathews`,
     },
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Akyuvaryum Blog`,
+        short_name: `Akyuvaryum`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
